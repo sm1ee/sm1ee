@@ -27,7 +27,8 @@
 <details>
 <summary>Others</summary>
 
-- CVE-2026-48548
-- CVE-2026-48549
-- CVE-2026-26998
+- CVE-2026-39324 / Rack Session
+- CVE-2026-26998 / Traefik
+- CVE-2026-48548 / Nagios
+- CVE-2026-48549 / Nagios
 </details>
