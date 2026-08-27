@@ -31,4 +31,5 @@
 - CVE-2026-26998 / Traefik
 - CVE-2026-48548 / Nagios
 - CVE-2026-48549 / Nagios
+- [hackerone/3601655](https://hackerone.com/reports/3601655) / Rails loofah
 </details>
