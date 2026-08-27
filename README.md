@@ -1,16 +1,33 @@
-## Hi there 👋
+## 🐞 Vulnerability Disclosures
+<details>
+<summary>Chromium</summary>
 
-<!--
-**sm1ee/sm1ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- crbug.com/513048538
+- crbug.com/513756452
+- CVE-2026-17995
+</details>
 
-Here are some ideas to get you started:
+<details>
+<summary>n8n</summary>
+  
+- CVE-2026-44789
+- CVE-2026-44792
+- CVE-2026-54302
+- CVE-2026-59209
+- CVE-2026-42229
+- CVE-2026-54310
+- CVE-2026-54313
+- CVE-2026-54306
+- CVE-2026-54311
+- CVE-2026-54303
+- CVE-2026-72775
+- CVE-2026-56353
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Others</summary>
+
+- CVE-2026-48548
+- CVE-2026-48549
+- CVE-2026-26998
+</details>
