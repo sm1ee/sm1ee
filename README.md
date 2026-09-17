@@ -3,6 +3,7 @@
 <summary>Chromium</summary>
 
 - CVE-2026-91737
+- CVE-2026-93381
 - crbug.com/513048538
 - crbug.com/513756452
 - CVE-2026-17995
