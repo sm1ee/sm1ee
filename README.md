@@ -11,8 +11,14 @@
 </details>
 
 <details>
+<summary>Rails</summary>
+- https://github.com/rails/rails/security/advisories/GHSA-wm3x-v3qw-4jh3
+- [hackerone/3601655](https://hackerone.com/reports/3601655) / Rails loofah
+</details>
+
+<details>
 <summary>n8n</summary>
-  
+
 - CVE-2026-44789
 - CVE-2026-44792
 - CVE-2026-110842
@@ -28,6 +34,9 @@
 - CVE-2026-54311
 - CVE-2026-72775
 - CVE-2026-42229
+- CVE-2026-118641
+- CVE-2026-118643
+- CVE-2026-118644
 </details>
 
 <details>
@@ -37,5 +46,4 @@
 - CVE-2026-26998 / Traefik
 - CVE-2026-48548 / Nagios
 - CVE-2026-48549 / Nagios
-- [hackerone/3601655](https://hackerone.com/reports/3601655) / Rails loofah
 </details>
