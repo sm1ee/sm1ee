@@ -13,8 +13,8 @@
 <details>
 <summary>Rails</summary>
   
-- https://github.com/rails/rails/security/advisories/GHSA-wm3x-v3qw-4jh3
-- [hackerone/3601655](https://hackerone.com/reports/3601655) / Rails loofah
+- CVE-2026-126081
+- [hackerone/3601655](https://hackerone.com/reports/3601655)
 </details>
 
 <details>
